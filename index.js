@@ -30,4 +30,4 @@ client.on('ready', async () => {
     console.log('logged in')
 })
 
-client.login("OTY3MDk3NDI2MzgzMDc3NDA3.YmLVqg.6evCFqrxe2zTkZqBZpPIPvaQV9A")
+client.login("TOKEN HERE")
